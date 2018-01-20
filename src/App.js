@@ -37,7 +37,7 @@ class App extends Component {
               <p>I am a generalist, capable of being specialist when necessary, whilst melding cross-domain knowledge to aid in problem solving.</p>
             </Col>
           </Row>
-      
+
           <Row className="show-grid">
             <Col xs={6} md={4}>
               <Well>Well,</Well>
@@ -49,13 +49,13 @@ class App extends Component {
               <Well>Well,</Well>
             </Col>
           </Row>
-      
+
           <Row className="show-grid">
             <Col xs={6} xsOffset={6}>
               <Well>Well,</Well>
             </Col>
           </Row>
-      
+
           <Row className="show-grid">
             <Col md={6} mdPush={6}>
               <Well>Well,</Well>
